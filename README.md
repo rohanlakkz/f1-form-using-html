@@ -9,6 +9,6 @@ smooth scrooling
 was fun to learn 
 thank you..........🚥🏎️🏎️🏎️🚥
 
-f1 survey-form link : https://github.com/rohanlakkz/f1-form-using-html
+f1 survey-form link : https://rohanlakkz.github.io/f1-form-using-html/
 credit : freecodecamp
 website:https://www.freecodecamp.org/learn
